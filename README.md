@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/@sangamsingh04" target="blank"><img src="https://img.shields.io/twitter/follow/@sangamsingh04?logo=twitter&style=for-the-badge" alt="@sangamsingh04" /></a> </p>
 
-- 🔭 I’m currently Student at Masai school **Clone of Stylecraze.com**
+- 🔭 I’m currently Student at Masai school 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
