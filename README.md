@@ -1,5 +1,13 @@
+![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
+
 <h1 align="center">Hi 👋, I'm Sangam Kumar Singh</h1>
+
 <h3 align="center">Full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
+
+
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangamk04&label=Profile%20views&color=0e75b6&style=flat" alt="sangamk04" /> </p>
 
