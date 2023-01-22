@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Any project**
 
-- 👨‍💻 All of my projects are available at [https://sangam-kumar-singh-portfolio.netlify.app/](https://sangam-kumar-singh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sangam-kumar-singh-portfolio.netlify.app/](https://sangamkumar-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sangamkumarsingh04](https://medium.com/@sangamkumarsingh04)
 
