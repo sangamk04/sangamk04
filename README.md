@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **sangamkumarsingh04@gmail.com**
 
-- 📄 Know about my experiences [](https://drive.google.com/file/d/1EQKfDYZyFD5RlCG-5l-gZhkZ6h1qtwyH/view?usp=sharing)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1EQKfDYZyFD5RlCG-5l-gZhkZ6h1qtwyH/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
