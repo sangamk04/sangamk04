@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sangam Kumar Singh</h1>
 
-<h3 align="center">Full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
+<h3 align="center">Front-end web developer trained in HTML, CSS, Javascript, Bootstrap,React Js, WordPress, and PHP. Looking forward to using these personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sangamsingh04" target="blank"><img src="https://img.shields.io/twitter/follow/@sangamsingh04?logo=twitter&style=for-the-badge" alt="@sangamsingh04" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node js, React, Redux.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Node js, React, and Redux.**
 
 - 👯 I’m looking to collaborate on **Any project**
 
@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sangamkumarsingh04](https://medium.com/@sangamkumarsingh04)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap, WordPress and PHP**
 
 - 📫 How to reach me **sangamkumarsingh04@gmail.com**
 
